@@ -179,6 +179,7 @@ aside > ul {
 footer {
     background-color: var(--cor5);
     color: white;
+    text-align: center;
 }
 
 main img.pequeno {
