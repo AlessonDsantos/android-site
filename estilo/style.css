@@ -179,6 +179,9 @@ aside > ul {
 footer {
     background-color: var(--cor5);
     color: white;
+    
+}
+footer > p {
     text-align: center;
 }
 
